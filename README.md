@@ -21,7 +21,7 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddenerson&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddenerson&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddenerson&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
