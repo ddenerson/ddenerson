@@ -3,7 +3,7 @@
 
 
 ### - 🔭 I’m currently working on <a href="https://www.valmont.com/">@Valmont Industries</a> as Full Stack Developer Intern
-### - 🌱 I’m currently learning OOP & Docker 
+### - 🌱 I’m currently learning Docker 
 
 <br/>
 <br/>
