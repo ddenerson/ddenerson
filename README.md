@@ -2,7 +2,7 @@
 ## I'm Denerson Silva 
 
 
-### - 🔭 I’m currently working on <a href="https://www.valmont.com/">@Valmont Industries</a> as Software Engineer Intern
+### - 🔭 I’m currently working on <a href="https://www.valmont.com/">@Valmont Industries</a> as Full Stack Developer Intern
 ### - 🌱 I’m currently learning OOP & Docker 
 
 <br/>
