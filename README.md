@@ -1,8 +1,7 @@
 # Hi there 👋
-## I'm Denerson Silva 
+## I'm Denerson  
 
-
-### - 🔭 I’m currently working on <a href="https://www.serasaexperian.com.br/sites-globais/">Serasa Experian</a> as Junior Software Engineer 
+#### - 🔭 I’m currently working on <a href="https://www.serasaexperian.com.br/sites-globais/">Serasa Experian</a> as Software Engineer 
 ### - 🌱 I’m currently learning Docker
 
 <br/>
