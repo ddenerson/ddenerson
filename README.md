@@ -2,7 +2,7 @@
 ## I'm Denerson  
 
 #### - 🔭 I’m currently working on <a href="https://www.serasaexperian.com.br/">Serasa Experian</a> as  Softwar Developer
-#### - 🌱 I’m currently learning RESTful API
+#### - 🌱 I’m currently learning RESTful API & Docker
 
 
 <div align="left">
