@@ -11,10 +11,6 @@
     
   </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="ddenerson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ddenerson-java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="ddenerson-java" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
-  <img align="center" alt="ddenerson-post" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddenerson&" alt="ddenerson" /></p>  
 
 </div>
