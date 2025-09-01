@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm Denerson  
 
-#### - 🔭 I’m currently working on <a href="https://www.serasaexperian.com.br/">Serasa Experian</a> as Business Intelligence Analyst <div align="left">
+#### - 🔭 I’m currently working on <a href="https://www.serasaexperian.com.br/">Serasa Experian</a> as Analytics Engineer <div align="left">
   <a href="https://github.com/ddenerson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenerson&layout=compact&langs_count=7&theme=dark"/>
     
